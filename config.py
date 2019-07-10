@@ -103,7 +103,7 @@ class ModelConfig(object):
         self.pooling_dim = None
         self.rec_dropout = None
         self.parser = self.setup_parser()
-        self.args = vars(self.parser.parse_args())
+        self.args = vars(self.parser.parse_args(args=[]))
 
         print("~~~~~~~~ Hyperparameters used: ~~~~~~~")
         for x, y in self.args.items():

@@ -1,3 +1,11 @@
+lib/draw_rectangles/draw_rectangles.c
+lib/fpn/nms/_ext/
+lib/fpn/nms/src/cuda/nms.cu.o
+lib/fpn/roi_align/_ext/
+lib/fpn/roi_align/src/cuda/roi_align.cu.o
+lib/lstm/highway_lstm_cuda/_ext/
+lib/lstm/highway_lstm_cuda/src/highway_lstm_kernel.cu.o
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

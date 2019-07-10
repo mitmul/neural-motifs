@@ -1,3 +1,5 @@
+*.swp
+
 lib/draw_rectangles/draw_rectangles.c
 lib/fpn/nms/_ext/
 lib/fpn/nms/src/cuda/nms.cu.o

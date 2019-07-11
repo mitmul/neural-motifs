@@ -1,3 +1,15 @@
+data/visual_genome
+data/glove.6B.100d.pt
+data/glove.6B.100d.txt
+data/glove.6B.200d
+data/glove.6B.200d.pt
+data/glove.6B.200d.txt
+data/glove.6B.300d.txt
+data/glove.6B.50d.txt
+data/stanford_filtered/VG-SGG-dicts.json
+data/stanford_filtered/VG-SGG.h5
+data/stanford_filtered/image_data.json
+
 *.swp
 
 lib/draw_rectangles/draw_rectangles.c
